@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/pet_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="TextView"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp" />
+
+    <TextView
+        android:id="@+id/pet_id_label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/pet_id_label"
+        android:textAlignment="viewStart"
+        android:textSize="14sp"
+        android:layout_below="@+id/pet_name"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/pet_category_label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="@string/pet_category_label"
+        android:textAlignment="viewStart"
+        android:textSize="14sp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/pet_id_label"
+        android:layout_marginStart="8dp" />
+
+    <TextView
+        android:id="@+id/pet_tags_label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="@string/pet_tags_label"
+        android:textAlignment="viewStart"
+        android:textSize="14sp"
+        android:layout_below="@id/pet_category_label"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/pet_status_label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="@string/pet_status_label"
+        android:textAlignment="viewStart"
+        android:textSize="14sp"
+        android:layout_marginStart="8dp"
+        android:layout_below="@+id/pet_tags_label"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/pet_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        tools:text="TextView"
+        android:layout_toEndOf="@id/pet_id_label"
+        android:layout_below="@id/pet_name"/>
+
+    <TextView
+        android:id="@+id/pet_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pet_id"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/pet_category_label"
+        tools:text="TextView" />
+
+    <TextView
+        android:id="@+id/pet_tags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="TextView"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/pet_category"
+        android:layout_toEndOf="@id/pet_tags_label"/>
+
+    <TextView
+        android:id="@+id/pet_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="TextView"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/pet_tags"
+        android:layout_toEndOf="@id/pet_status_label"/>
+
+
+</RelativeLayout>

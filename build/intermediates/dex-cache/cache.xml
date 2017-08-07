@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\aafbef196676ed870f64dde840d863305edb70cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_ea2a0e7b6ae102aedc0adf15aaddbcf5ecea83cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\9d8e5d697f3a4278c3f775dba7e2230f26fd49b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_c48c0ac44f9a35f01ff316f7807d689ea8bbe6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\gson-2.7_26b43f5b3172110a62c9c23a56bcf714c874fae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_d1ef1999303fc5319bbb59472a8c1749eab1b2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\fb680e6506419b6469c819d0654876c7249fc67d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_4b0f6dc505badfe1670c2c287caa96f9c51a0a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\b89eeab0cdd1fd6305a3df86b88b816ba92b49e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_7aa3a13ca79c6dc8f8b832b6708c958d44eacc1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.3-2_de5e81fea17f355a3e85ca03776e27b992a11dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\1ac819433f4f5711bdc6dce67c2fe1ea1175fc40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_d7f7c79e73291121f42e810aef48a32a116e6882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\2df0a8d3199b1fdd0caf137762aca389cc4fc53c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d02c7c02588d2a4051a24e5526a55ce3215da867">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_de24eec4a215d49977d46aa9a5a9abafa75629cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-commons\0.10.1\bcf698b95e7e1d480a65d049af705286f2776a81\anko-commons-0.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcf698b95e7e1d480a65d049af705286f2776a81">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\anko-commons-0.10.1_f8a834e552be518c9a5be0d67f7eaa5f76e659ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2ab2f79ae6e19334b335cb4694f032948ca84060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\okio-1.13.0_51bae417bab8ba57cafcab4857e65445545c09e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.0_aad953fe07bba01e7056d42300680e5046c7262a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\0f9f0b36ccaf04fb509661d56ed0d18bdcc8f84d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_a201443d6aae1199ce59f3e941fd2c7c0078dc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_ca75eb8c60307dc99fc5f1e51e2aa700380f15ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\40202ef98afafd9278a541efe35b7f99db0cc49a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_7706a4c1a9cc889686ad5c81e15dca3955d85fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\3e132d865b8c275f9e2b647204eae3932c4fad08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_e98d433587fc4c5ef4e9b41652b8f4cbd85cecfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\759b70413deaa13eb25240fc9667a11c96ccda34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_ce92407233f01a0bca2d7a24598126367b4753b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\69ea59165c61587756b5df09a71a93e7a820ab26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_0fce060263945872547df17e750f498fc4bf6564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_c7fe9699ae501bc5b16a8b981f6d60ed0a079414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\annotations-13.0_f3c6242f26c279fed28287e0b94c7df5f31445e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\6c0e75245d30cde250e45ba46c8a74b8d4fac623\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_37dd8c33ad4141187f7dc5e3f5814c197c4549d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\d72020e42a1b96d7eee7096bccfc2861dfc4e12b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_c0579d61b8747172397deee68a1fc35bf2db21eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.3-2_90bef465ad15436a2df810b4d905d9c833630699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\.android\build-cache\adcea48328c337bdc179562b3ca8ae1c1930aa1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\classes_460d0253604afa4d610bed93ce4fd9becb073e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\StudioProjects\PetStore\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6fa098e8844b87cac623f2e0fb1a19698b31aa0e.jar" />
+    </item>
+
+</items>
